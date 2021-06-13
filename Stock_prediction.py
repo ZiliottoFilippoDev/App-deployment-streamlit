@@ -23,7 +23,9 @@ with col6:
 if email_button:
     st.text('filippo.ziliotto1996@gmail.com')
 if git_button:
-    webbrowser.open('https://github.com/ZiliottoFilippoDev/Personal-Projects')
+    js = "window.open('https://github.com/ZiliottoFilippoDev/Personal-Projects')"  
+    #js = "window.location.href = 'https://www.streamlit.io/'"  # Current tab
+    #webbrowser.open('https://github.com/ZiliottoFilippoDev/Personal-Projects')
     
 
     #webbrowser.open_new_tab('https://gmail.com')
