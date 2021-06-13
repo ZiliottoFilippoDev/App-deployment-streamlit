@@ -23,7 +23,7 @@ with col6:
 if email_button:
     st.text('filippo.ziliotto1996@gmail.com')
 if git_button:
-    webbrowser.open_new_tab('https://github.com/ZiliottoFilippoDev/Personal-Projects')
+    webbrowser.open('https://github.com/ZiliottoFilippoDev/Personal-Projects')
     
 
     #webbrowser.open_new_tab('https://gmail.com')
