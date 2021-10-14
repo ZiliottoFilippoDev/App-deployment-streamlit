@@ -5,5 +5,5 @@ This app allows the user to compute the Color Palette of a certain image using K
   *   https://share.streamlit.io/ziliottofilippodev/my_personal_application/main/Stock_prediction.py 
   *   https://share.streamlit.io/ziliottofilippodev/my_personal_application/App_2/Kmeans_colour.py
   
-![Alt text](Colour.jpg)
+![Alt text](Colours.jpg)
 
